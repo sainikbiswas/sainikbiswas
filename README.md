@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @sainikbiswas
 - 👀 I’m interested in Web Hosting, Web Security, Web Performance
-- 🌱 I’m currently learning OOP with PHP
+- 🌱 I’m currently learning a couple different things
+
+* Object Oriented Programming with PHP
+* Responsive Design with Flexbox & CSS Grid
+* Web Performance Optimization
 
 
 <!---
