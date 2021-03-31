@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning a couple different things
 
 * Object Oriented Programming with PHP
+* Systems Programming with C
 * Responsive Design with Flexbox & CSS Grid
 * Web Performance Optimization
 
